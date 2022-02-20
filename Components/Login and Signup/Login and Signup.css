@@ -1,0 +1,44 @@
+.auth__container{
+    max-width: 30%;
+    margin: auto;
+    margin-top: 8rem;
+    padding-top: 1.2rem;
+    border-radius: 5px;
+    background-color: var(--white);
+}
+
+.navigation{
+    border: none;
+}
+.nav-color{
+    background-color: var(--white);
+}
+body{
+    background-color: #F7F7F7;
+}
+.auth__container__title{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.auth__container__input{
+    padding: 3rem 3.5rem ;
+}
+
+.cta__btn{
+   position: relative;
+   top :1rem; 
+}
+
+.pageChangeLink{
+    margin-left: 1rem;
+    position: relative;
+    top: 1rem;
+}
+
+.pageChangeLink > a{
+    text-decoration: none;
+    color: var(--secondary-color);
+}
