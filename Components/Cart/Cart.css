@@ -1,0 +1,56 @@
+.cart{
+    max-width: 90%;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body{
+    background-color: #f7f7f7;
+}
+
+.CardWithImage-Horizontal{
+    background-color: white;
+}
+
+.cart__content{
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+ width: 100%;
+    padding: 0 1rem;
+}
+
+.cart__title{
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+hr{
+    margin: 1rem 0;
+}
+.cart__billing{
+background-color: white;
+width: 50%;
+min-width: 20rem;
+display: flex;
+flex-direction: column;
+border-radius: 9px;
+}
+
+.nav-color{
+    background-color: white;
+}
+
+.cart__billing > div{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    font-weight: 500;
+}
+.cart__billing > a{
+    margin: 1.5rem 1.5rem;
+    text-align: center;
+
+}
+
