@@ -1,0 +1,48 @@
+.page__container{
+    display: flex;
+}
+
+.page__productContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.page__productTitle{
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin: 2rem;
+}
+
+.filter__sidebar{
+    width: 15rem;
+}
+
+.input-checkbox{
+height: 1rem;
+width: 1rem;
+}
+
+.category-heading{
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin: 1rem 1rem;
+}
+
+li{
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    list-style-type: none;
+}
+
+.slider{
+    width: 12rem;
+    margin-left: 1rem;
+    height: 0.5rem;
+}
+
+.page__ItemsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    margin-left: 2rem;
+}
