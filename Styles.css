@@ -1,6 +1,29 @@
 .navigation{
     box-shadow: 0 4px 6px -5px #222;
     border: none;
-    background-color: var(--white);
+    background-color: var(--primary-color);
+    color: var(--white);
+}
 
+body{
+    background-color: #F7F7F7;
+}
+
+.navigation_Interaction > a{
+    color: var(--white);
+}
+
+.navigation__login{
+    background-color: var(--secondary-color);
+}
+
+.navigation_Title{
+    font-size: 1.3rem;
+    font-family: 'Roboto Slab', serif;
+}
+
+.searchbar > input{
+    border-radius: 50rem;
+    border: solid 2px var(--secondary-color);
+    padding: 0.3rem;
 }

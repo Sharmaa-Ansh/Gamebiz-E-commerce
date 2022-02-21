@@ -23,6 +23,21 @@ body{
     text-align: center;
 }
 
+.auth__container__subtitle{
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 1.3rem;
+}
+
+.cta__container{
+   display: flex;
+   justify-content: center;
+   gap: 1rem;
+   margin:1rem;
+   padding-bottom: 1rem;
+}
+
 .auth__container__input{
     padding: 3rem 3.5rem ;
 }
