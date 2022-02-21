@@ -1,2 +1,3 @@
-# Project-Droid
- It is an ecommerce site
+# Gamebiz
+ #### It is a E-commerce site focused in selling game realted stuff.
+ 
